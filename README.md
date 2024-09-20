@@ -14,7 +14,7 @@ The Caesar cipher is one of the simplest and oldest encryption techniques. It wo
 ## How It Works
 
 1. **Input**: The user provides the encrypted message.
-2. **Processing**: The program cycles through all possible key values (0-95) and attempts to decrypt the message using each key.
+2. **Processing**: The program cycles through all possible key values (0-93) and attempts to decrypt the message using each key.
 3. **Output**: The program prints out all decrypted messages, one for each key, allowing the user to identify the correct plaintext.
 
 https://replit.com/@marthah48/Cracking-Caesars-Cipher?v=1
